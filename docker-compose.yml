@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  ubiz:
+    image: web/ubiz
+    build: .
+    restart: always
+    container_name: ubiz
+    ports:
+      - "5077:5000"

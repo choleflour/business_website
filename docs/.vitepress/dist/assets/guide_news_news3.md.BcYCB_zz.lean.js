@@ -1,0 +1,1 @@
+import{_ as e,c as t,a as s}from"./chunks/framework.DwyVDld4.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/news/news3.md","filePath":"zh/guide/news/news3.md"}'),n={name:"guide/news/news3.md"};function a(r,o,c,d,i,p){return s(),t("div")}const f=e(n,[["render",a]]);export{m as __pageData,f as default};

@@ -1,0 +1,6 @@
+import{_ as e,c as a,a as t,y as r}from"./chunks/framework.DwyVDld4.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{"aside":false},"headers":[],"relativePath":"en/guide/solution/template.md","filePath":"en/guide/solution/template.md"}'),o={name:"en/guide/solution/template.md"},i=r(`<h2 id="product-name" tabindex="-1">Product Name <a class="header-anchor" href="#product-name" aria-label="Permalink to &quot;Product Name&quot;">​</a></h2><h3 id="image" tabindex="-1">image <a class="header-anchor" href="#image" aria-label="Permalink to &quot;image&quot;">​</a></h3><h3 id="brief-description" tabindex="-1">brief description <a class="header-anchor" href="#brief-description" aria-label="Permalink to &quot;brief description&quot;">​</a></h3><h2 id="product-features" tabindex="-1">Product Features <a class="header-anchor" href="#product-features" aria-label="Permalink to &quot;Product Features&quot;">​</a></h2><pre><code>1. 
+2.
+3.
+4.
+5.
+</code></pre><h3 id="ui-ux" tabindex="-1">UI/UX <a class="header-anchor" href="#ui-ux" aria-label="Permalink to &quot;UI/UX&quot;">​</a></h3>`,6),n=[i];function d(s,c,l,u,h,_){return t(),a("div",null,n)}const f=e(o,[["render",d]]);export{p as __pageData,f as default};

@@ -1,0 +1,8 @@
+  .vp-doc .custom-block {
+    transition: all 0.3s ease;
+  }
+  
+  .vp-doc .custom-block:hover {
+    background-color: #a40d0d;
+    box-shadow: 0 4px 12px rgba(35, 58, 136, 0.1);
+  }
